@@ -5,8 +5,9 @@ Construction of a simple HTTP server in Python.
 
 Please see the [instructions](https://csse6400.uqcloud.net/practicals/week01.pdf) for more details.
 
-Update this README file with appropriate information about your project,
-including how to run it.
+This is a small test for flask using, We use pipx and poetry to build a pure python environment
+__init__.py is initial file for flask
+
 
 There are [resources](https://www.makeareadme.com) available to help you write a good README file.
 

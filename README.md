@@ -13,6 +13,6 @@ This is a small test for flask using, We use pipx and poetry to build a pure pyt
 **pyproject.tomal** is environment configuration file<br>
 **poetry.lock** is lock environment file, it likes requirments.txt<br>
 
-There are [resources](https://www.makeareadme.com) available to help you write a good README file.
+
 
 
